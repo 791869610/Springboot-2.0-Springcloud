@@ -12,3 +12,4 @@ public class SpringCloudZuulApplication {
 		SpringApplication.run(SpringCloudZuulApplication.class, args);
 	}
 }
+
